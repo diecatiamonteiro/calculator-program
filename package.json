@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "rewire": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalCareerInstitute/PB-Calculator.git",
+    "id": 344776287
+  },
+  "name": "calculator-diecatiamonteiro-2",
+  "version": "1.0.0",
+  "description": "In the grand tapestry of existence, numbers dance and intertwine, spinning a rhythm of reason that orchestrates the universe. You are tasked with crafting an exquisite instrument, a `Calculator`, to join this cosmic ballet.",
+  "main": "solution.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalCareerInstitute/PB-Calculator/issues"
+  },
+  "homepage": "https://github.com/DigitalCareerInstitute/PB-Calculator#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
+
