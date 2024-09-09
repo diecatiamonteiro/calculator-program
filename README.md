@@ -28,7 +28,7 @@ git clone git@github.com:diecatiamonteiro/calculator-program.git
 ```
 2. Install dependencies:
 ```bach 
-npm install
+npm install chalk
 ```
 3. Run the calculator script:
 ```bach 
