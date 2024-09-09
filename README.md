@@ -23,9 +23,8 @@ The Calculator class includes constants for π (Math.PI) and e (Math.E), which c
 ## How to run
 
 1. Clone the repository:
-
 ```bach 
-git clone <repository-url>
+git clone git@github.com:diecatiamonteiro/calculator-program.git
 ```
 2. Install dependencies:
 ```bach 
