@@ -35,6 +35,6 @@ npm install chalk
 node index.js
 ```
 
-## Calculator example
+## Calculator preview
 
 ![calculator example](/img/calculator-example.png)
